@@ -1,3 +1,3 @@
 # space
 trabalho final
-criação repositório apra o projeto
+criação repositório para o projeto
